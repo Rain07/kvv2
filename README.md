@@ -1,7 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
+At the first install redux by npm install redux
+and webpack
+and then continue!
 In the project directory, you can run:
 
 ### `npm start`
