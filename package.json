@@ -30,6 +30,5 @@
     ]
   },
   "devDependencies": {
-    "webpack": "^4.33.0"
   }
 }
