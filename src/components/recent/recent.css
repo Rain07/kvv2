@@ -1,0 +1,57 @@
+
+.jss87 > .jss63 {
+    padding: 16px;
+}
+@media (min-width: 1024px)
+{.jss126 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+}
+.jss102 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+}
+.jss63 {
+    margin: 0;
+    box-sizing: border-box;
+}
+div {
+    display: block;
+}
+body {
+    margin: 0;
+    font-family: IRANSans;
+    direction: rtl;
+    font-size: 12px;
+    color: rgba(0,0,0,0.87);
+    background-color: #f4fbff;
+}
+}
+@media (min-width: 1024px)
+{::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}}
+@media (min-width: 1024px)
+{::-webkit-scrollbar-button {
+    width: 0px;
+    height: 0px;
+}}
+@media (min-width: 1024px)
+{::-webkit-scrollbar-corner {
+    background: transparent;
+}}
+@media (min-width: 1024px)
+{::-webkit-scrollbar-thumb {
+    background: #777777;
+    border: 0;
+    border-radius: 0;
+}}
+@media (min-width: 1024px)
+{::-webkit-scrollbar-track {
+    background: #ccc;
+    border: 0;
+    border-radius: 0;
+}}

@@ -1,0 +1,47 @@
+.jss1219 {
+    overflow: hidden;
+    min-height: 48px;
+    -webkit-overflow-scrolling: touch;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+.jss30 {
+    color: #fff;
+    background-color: #4d70aa;
+}
+body {
+    margin: 0;
+    font-family: IRANSans;
+    direction: rtl;
+    font-size: 12px;
+    color: rgba(0,0,0,0.87);
+    background-color: #f4fbff;
+}
+@media (min-width: 1024px)
+{::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}}
+@media (min-width: 1024px)
+{::-webkit-scrollbar-button {
+    width: 0px;
+    height: 0px;
+}}
+@media (min-width: 1024px)
+{::-webkit-scrollbar-corner {
+    background: transparent;
+}}
+@media (min-width: 1024px)
+{::-webkit-scrollbar-thumb {
+    background: #777777;
+    border: 0;
+    border-radius: 0;
+}}
+@media (min-width: 1024px)
+{::-webkit-scrollbar-track {
+    background: #ccc;
+    border: 0;
+    border-radius: 0;
+}}

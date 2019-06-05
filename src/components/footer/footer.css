@@ -1,0 +1,74 @@
+element.style {
+}
+.jss86 > .jss63 {
+    padding: 12px;
+}
+@media (min-width: 1024px)
+{.jss262 {
+    border-left: 1px solid rgba(0, 0, 0, 0.12);
+    border-bottom: none;
+}
+.jss262 {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+}}
+@media (min-width: 1024px)
+{.jss122 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+}
+.jss102 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+}
+.jss63 {
+    margin: 0;
+    box-sizing: border-box;
+}
+div {
+    display: block;
+}
+.jss239 {
+    margin: auto;
+    padding: 48px;
+    max-width: 1100px;
+    font-size: 16px;
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    font-family: IRANSans;
+    direction: rtl;
+    font-size: 12px;
+    color: rgba(0,0,0,0.87);
+    background-color: #f4fbff;
+}
+}
+@media (min-width: 1024px)
+{::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
+}
+@media (min-width: 1024px)
+{::-webkit-scrollbar-button {
+    width: 0px;
+    height: 0px;
+}}
+@media (min-width: 1024px)
+{::-webkit-scrollbar-corner {
+    background: transparent;
+}}
+@media (min-width: 1024px)
+{::-webkit-scrollbar-thumb {
+    background: #777777;
+    border: 0;
+    border-radius: 0;
+}}
+@media (min-width: 1024px)
+{::-webkit-scrollbar-track {
+    background: #ccc;
+    border: 0;
+    border-radius: 0;
+}}
