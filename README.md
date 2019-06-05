@@ -1,5 +1,4 @@
 At the first install redux by npm install redux
-and webpack
 and then continue!
 In the project directory, you can run:
 
